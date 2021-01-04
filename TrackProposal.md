@@ -16,14 +16,11 @@ topic, tool, technique, or model. Save this proposal as TrackProposal.md in your
 Please see below for more details.
 
 Track
-● Track has clear learning objectives that would be relevant to a working
-professional in data science or data engineering.
-● Track contains proposals for 6 - 8 courses.
 
-● Each proposed course has a brief marketing description that would engage a
-potential learner.
-● Each proposed course has 2 - 3 specific, measurable learning objectives.
-● Required prerequisites from DataCamp (if any are necessary) are clearly stated
-and briefly justified.
-● The track outline is not reflective of an existing track.
-● Here’s an example of a track on time series analysis.
+* Track has clear learning objectives that would be relevant to a working professional in data science or data engineering.
+* Track contains proposals for 6 - 8 courses.
+* Each proposed course has a brief marketing description that would engage a potential learner.
+* Each proposed course has 2 - 3 specific, measurable learning objectives.
+* Required prerequisites from DataCamp (if any are necessary) are clearly stated and briefly justified.
+* The track outline is not reflective of an existing track.
+* Here’s an example of a track on time series analysis.
