@@ -5,7 +5,7 @@ Matching Parentheses
 Mismatched parentheses, brackets or quotes are one of the most common syntax errors when programming in Python. They're easy to forget and deviously hard to find with the naked eye, especially in longer chunks of code. 
 
 For example, the following snippet has a print statement at the bottom, missing a closing parenthesis:
-![Code snippet](img/missingParenthesis.png)
+![Code snippet](img/missingParenthesis.png =250x)
 
 You've undoubtedly been frustrated with them yourself. But, no more!
 
