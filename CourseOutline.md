@@ -39,21 +39,27 @@ We're kicking things off with the basics. In this course, you will learn about S
 2. Learner will be able to solve common algorithmic problems using Stacks
 
 ### Chapter 3: Linked Lists and Operations
+
+#### Lessons
 1. [Video] Linked List implementation and common operations: adding and removing values
 2. [Exercise] Explore the Linked List
 3. [Exercise] Adding to the front, back and anywhere in between
 4. [Exercise] Find the middle
 
+#### Learning Objectives
 1. Learner will be able to explain time complexities for different adding and removing operations in a Linked List
 2. Learner will be able to visualize adding and removing operations with nodes and pointers
 3. Learner will be able to find the middle value of a Linked List, a common Linked List algorithmic problem
 
 ### Chapter 4: Queues and Operations
+
+#### Lessons
 1. [Video] Queue implementations and common operations; enqueue and dequeue
 2. [Exercise] Exploring the Queue with enqueue and dequeue
 3. [Exercise] List and Linked List based Queue
 4. [Exercise] Double Stack Queue
 
+#### Learning Objectives
 1. Learner will be able to explain time complexities for enqueing and dequeuing in a Queue
 2. Learner will be able to describe the trade-offs of different Queue implementations based on a List, Linked List and Double Stack
 3. Learner will be able to choose the appropriate data type to efficiently solve an algorithmic problem
