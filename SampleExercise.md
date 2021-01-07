@@ -37,7 +37,7 @@ close_list = [“)“, “]“]
 
 ## Instructions
 
-* `stack`  is already defined as your Stack structure, along with  `open_list` , a list of openening strings and  `close_list`, a list of closing strings.
+* `stack`  is already defined as your Stack structure, along with  `open_list` , a list of opening strings and  `close_list`, a list of closing strings.
 * Complete the `if`  and  `elif`  outcomes, if the  `stack` is empty.
 * Fill in the outcomes if  `stack` is not empty, and  `c` matches the top of the stack, via `stack.peek()`.
 * Finally, add how we check whether the parentheses are matched at the end of the loop.
@@ -115,5 +115,5 @@ def is_balanced(str):
 }
 ```
 
-## Learning Objective Asessed
+## Learning Objective Assessed
 Learner will be able to solve common algorithmic problems using Stacks

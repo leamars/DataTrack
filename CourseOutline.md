@@ -17,16 +17,16 @@ We're kicking things off with the basics. In this course, you will learn about S
 ### Chapter 1: Derived Data Types
 
 #### Lessons
-1. [Video] What are deriverd data types?
+1. [Video] What are derived data types?
 2. [Exercise] Match data types with time complexities
 3. [Exercise] Identify the data type that fits the problem
 
 #### Learning Objectives
 1. Learner will be able to describe 3 basic derived data types; Stacks, Queues and Linked Lists
-2. Learner will be able to evaluate which data type (Stack, Queue or Linked List) is the apporpriate representation for a real world scenario (Amusement park ride, Ice cream scoops, Travel directions)
+2. Learner will be able to evaluate which data type (Stack, Queue or Linked List) is the appropriate representation for a real world scenario (Amusement park ride, Ice cream scoops, Travel directions)
 3. Learner will be able to describe the strategies for inserting and removing from a Stack, Queue and Linked List
 
-### Chapter 2: Stacks and Common Opperations
+### Chapter 2: Stacks and Common Operations
 
 #### Lessons
 1. [Video] Stack implementation and common operations: pop, push and peek

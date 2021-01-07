@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! Welcome to my DataCamp track proposal. This was an interesting and thought provoking exercise that took quite a while to complete. I'll briefly walk you through my process of approaching the task and why I decided to pick Algorithms & Data Structures as my final track proposal.
+Hello! Welcome to my DataCamp track proposal. This was an interesting and thought-provoking exercise that took quite a while to complete. I'll briefly walk you through my process of approaching the task and why I decided to pick Algorithms & Data Structures as my final track proposal.
 
 # Research
 First, I reviewed the material you sent over and took a couple of DataCamp courses to get a good feel for their structure, content and pace.
@@ -22,9 +22,9 @@ Because I know that your learners struggle with being "real-world ready", I init
 * Working with 3rd party tools
 * Investigating suspicious experiment results from 3rd party tools
 * Identifying anomalies in core user funnels and finding explanations
-* Helping others intrepret data and creating visualizations and reports to promote data literacy
+* Helping others interpret data and creating visualizations and reports to promote data literacy
 
-On the other hand, I was also upset that many DataCampers on Slack felt like they didn't learn enough from DataCamp to be able to find a job in data. I've seen a couple of my friends struggle with this as well, so I was compelled to construct a track to give you the real-world experience needed to work:
+On the other hand, I was also upset that many DataCampers on Slack felt like they didn't learn enough from DataCamp to find a job in data. I've seen a couple of my friends struggle with this as well, so I felt compelled to construct a track to give learners the real-world experience needed to work:
 * Reading documentation
 * Writing documentation
 * Writing "Pythonic" code
@@ -48,7 +48,7 @@ Ultimately I chose to focus on the Algorithms and Data Structures track, because
 Data science is not in my wheelhouse of expertise. 
 
 * I have a CS degree which allows me to quickly onboard to new programming languages, concepts and paradigms. 
-* I've worked as a Product Manager, which has enabled me to understand what is needed of a data team in small, medium and large tech organizations and how they hollistically support the product and tech strategy of a company. 
+* I've worked as a Product Manager, which has enabled me to understand what is needed of a data team in small, medium and large tech organizations and how they holistically support the product and tech strategy of a company. 
 * I've also worked as an educator for over 10 years, most notably writing tutorials, publishing courses and editing books at [https://www.raywenderlich.com/](https://www.raywenderlich.com/), so I have considerable experience in delivering effective educational content. 
 
 If you need an expert in data science for this role, I'm not the person you're looking for. But, if you need someone who has a solid background in a lot of related areas, who can learn fast and is excited about education and the transformative potential of data literacy and fluency... look no further (:
