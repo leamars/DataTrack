@@ -19,6 +19,10 @@ As Python developers, we often rely on prebuilt packages like NumPy and pandas t
 ## Course Descriptions
 
 ### Algorithms, Data Structures and Complexity
+
+#### Prerequisites: 
+* [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python)
+
 #### Marketing Description
 Most Python developers can make their code work. But, how many can make their code work well? In this course you'll learn how to analyze the complexity of your code with regards to time and space, to product faster and more efficient code!
 
@@ -27,11 +31,11 @@ Most Python developers can make their code work. But, how many can make their co
 * Learner will be able to analyze code to compare and contrast various solutions for time complexity.
 * Learner will be able to analyze code to compare and contrast various solutions for space complexity.
 
-### Built in Data Types
+### Built-in Data Types
 This course would consist of half of the [Data Type for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python) course, and expand on it.
 
 #### Prerequisites: 
-* [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python)
+* [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python)
 
 #### Marketing Description
 Have you got your basic Python programming chops down for Data Science but are yearning for more? Then this is the course for you. Herein, you'll consolidate and practice your knowledge of lists, dictionaries, tuples and sets.
@@ -44,6 +48,7 @@ Have you got your basic Python programming chops down for Data Science but are y
 ### Derived Data Types and Operations
 #### Prerequisites: 
 * [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python)
+* Built-in Data Types
 
 #### Marketing Description
 We're kicking things off with the basics. In this course, you will learn about Stacks, Queues and Linked Lists; the building blocks for the advanced data types you're more likely to use. These data types and their common operations are the simple foundations to understanding complex problems like searching through Trees and Graphs.
@@ -55,6 +60,9 @@ We're kicking things off with the basics. In this course, you will learn about S
 
 ### Advanced Data Types: Trees, Binary Trees and Binary Search
 
+#### Prerequisites: 
+* Derived Data Types and Operations
+
 ### Marketing Description
 Basic data structures are great building blocks, but can often only be used for basic problems. When you want to address problems, like finding your way out of a maze as quick as possible, you'll need something more advanced - a Tree! In this course you'll master the fundamentals of Tree terminology and learn about the complexity benefits and drawbacks of Trees versus Lists and other data types.
 
@@ -64,6 +72,8 @@ Basic data structures are great building blocks, but can often only be used for 
 * Learner will be able to recognize the benefits and drawbacks in time complexity for Binary Search Trees vs Lists for common operations like insert, remove and contain.
 
 ### Advanced Data Types: Heaps, Graphs, BFS and DFS
+#### Prerequisites: 
+* Advanced Data Types: Trees, Binary Trees and Binary Search
 
 #### Marketing Description
 Likely the most relevant data structures for data scientists are graphs, allowing us to model relationships between objects. In this course you'll learn about graphs, heaps and two famous search techniques - BFS (breadth-first-search) and DFS (depth-first-search).
@@ -75,6 +85,9 @@ Likely the most relevant data structures for data scientists are graphs, allowin
 
 ### Sorting Algorithms
 
+#### Prerequisites: 
+* Advanced Data Types: Heaps, Graphs, BFS and DFS
+
 #### Marketing Description
 Sorting algorithms are fundamental to computer science because they create order from disorder, allowing you to process neatly sorted data with ease. In this course you'll learn about some basic sorting algorithms like Bubble, Selection and Insertion sort and why you should probably never user them. But you'll also learn about two more popular sort, merge sort and quick sort and how to implement them.
 
@@ -84,6 +97,9 @@ Sorting algorithms are fundamental to computer science because they create order
 * Learner will become familiar with the implementation of quick sort and merge sort, by filling in the gaps of their functions through exercises.
 
 ### Common Algorithmic Approaches
+
+#### Prerequisites: 
+* Sorting Algorithms
 
 #### Marketing Description
 
