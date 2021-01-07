@@ -8,9 +8,9 @@ For example, the following snippet has a print statement at the bottom, missing 
 
 ![Code snippet](img/missingParenthesis.png)
 
-In this exercise you will write a function to to check whether a String has balanced parentheses or not. Balanced means that each opening parenthesis is followed by a closing parentheses, and that they are appropriately nested. The same goes for brackets. 
+In this exercise you will write a function to check whether a String has balanced parentheses or not. Balanced means that each opening parenthesis is followed by a closing parentheses, and that they are appropriately nested. The same goes for brackets. 
 
-You'll create this function using a `Stack` and here are some examples:
+Here are some examples:
 
 ```
 Input : [[()]]
