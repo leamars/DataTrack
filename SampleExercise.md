@@ -30,14 +30,16 @@ Solving this with a Stack is easy:
 * if it does
 every time I see an open parenthesis, I push it on the stack. If I find a closing parenthesis, I check if it matches the last opening one. If it matches, we pop the last item, the open parenthesis, off the stack. When we come to the end of the String, we should have no elements left, otherwise, the String is not balanced.
 
-Here's an example:
+Let's walk through it how to solve this with a Stack with some visual examples:
 
 ```
 open_list = [“(“, “[“]
 close_list = [“)“, “]“]
 ```
 
-![Code snippet](img/exampleStringStack.png)
+![Code snippet](img/falseString.png)
+
+![Code snippet](img/trueString.png)
 
 
 ## Instructions
