@@ -22,13 +22,6 @@ Output : Unbalanced
 Input : )][(
 Output : Unbalanced
 ```
-Solving this with a Stack is easy:
-* As you step through the string
-* you push every open parenthesis on the stack
-* If you encounter a closing parenthesis
-* you check if it matches the one at the top of the stack
-* if it does
-every time I see an open parenthesis, I push it on the stack. If I find a closing parenthesis, I check if it matches the last opening one. If it matches, we pop the last item, the open parenthesis, off the stack. When we come to the end of the String, we should have no elements left, otherwise, the String is not balanced.
 
 Let's walk through it how to solve this with a Stack with some visual examples:
 
@@ -44,25 +37,79 @@ close_list = [“)“, “]“]
 
 ## Instructions
 
-* `stack`  is already defined as your Stack structure, along with  `open_list`  and  `close_list` as above.
-    * blabla
-    * blabla
+* `stack`  is already defined as your Stack structure, along with  `open_list` , a list of openening strings and  `close_list`, a list of closing strings.
+* Complete the `if`  and  `elif`  outcomes, if the  `stack` is empty.
+* Fill in the outcomes if  `stack` is not empty, and  `c` matches the top of the stack, via `stack.peek()`.
+* Finally, add how we check whether the parentheses are matched at the end of the loop.
     
-
-
 ## Solution
+### First Step
 ```
 def is_balanced(str):
     for c in str:
         if stack.is_empty:        
-            if char in open_list:
+            if c in open_list:
+                ____
+            elif c in close_list:
+                ____
+        else:
+            if stack.peek().matches(c):
+                ____
+            elif c in open_list:
+                ____
+    return ____
+}
+```
+
+### Second Step
+```
+def is_balanced(str):
+    for c in str:
+        if stack.is_empty:        
+            if c in open_list:
                 stack.push(c)
-            elif char in close_list:
+            elif c in close_list:
+                return false
+        else:
+            if stack.peek().matches(c):
+                ____
+            elif c in open_list:
+                ____
+    return ____
+}
+```
+
+### Third Step
+```
+def is_balanced(str):
+    for c in str:
+        if stack.is_empty:        
+            if c in open_list:
+                stack.push(c)
+            elif c in close_list:
                 return false
         else:
             if stack.peek().matches(c):
                 stack.pop()
-            elif char in open_list:
+            elif c in open_list:
+                stack.push(c)
+    return ____
+}
+```
+
+### Last Step
+```
+def is_balanced(str):
+    for c in str:
+        if stack.is_empty:        
+            if c in open_list:
+                stack.push(c)
+            elif c in close_list:
+                return false
+        else:
+            if stack.peek().matches(c):
+                stack.pop()
+            elif c in open_list:
                 stack.push(c)
     return stack.is_empty
 }
