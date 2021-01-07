@@ -12,3 +12,27 @@ must write).
 * The solution code is no more than 15 lines of code (including 4 - 5 lines of code
 comments and any necessary line breaks).
 * The sample exercise assesses one or two measurable learning objectives.
+
+## Sample Exercise
+Matching Parentheses
+
+## Context
+Mismatched closing parentheses, brackets or quotes are one of the most common syntax errors when programming in Python.
+
+They're easy to forget and deviously hard to find with the naked eye, especially in longer chunks of code.
+
+`Input : {[]{()}}
+Output : Balanced
+
+Input : [{}{}(]
+Output : Unbalanced`
+
+
+## Instructions
+
+## Solution
+
+## Hint
+
+## Learning Objective Asessed
+Learner will be able to solve common algorithmic problems using Stacks

@@ -36,7 +36,7 @@ We're kicking things off with the basics. In this course, you will learn about S
 
 #### Learning Objectives
 1. Learner will be able to explain time complexities for pop, push and peek in a Stack
-2. Learner will be able to apply their knowledge of Stacks to solve two common algorithmic problems, reversing an Array and matching parentheses
+2. Learner will be able to solve common algorithmic problems using Stacks
 
 ### Chapter 3: Linked Lists and Operations
 1. [Video] Linked List implementation and common operations: adding and removing values
