@@ -42,6 +42,7 @@ Ultimately I chose to focus on the Algorithms and Data Structures track, because
 * There is so much hidden under the hood in highly optimized Python packages that it's easy to never think about algorithms and data structures, but this foundational knowledge is necessary for writing fast and performant code
 * Algorithms and Data Structures seem to be on the rise for data engineering and data science interviews
 * When I tried sketching out the others within the boundaries of the DataCamp platform, they fell a bit flat
+* You seem to agree that it's an important topic, because you have it on your [Course Roadmap](https://trello.com/b/BLplifUB/datacamp-course-roadmap)!
 * I had little time, but enough experience in the topic to deliver it to my satisfaction
 
 # Disclaimer
